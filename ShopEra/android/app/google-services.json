@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173998952142",
+    "firebase_url": "https://dailydigitaldeals-chat.firebaseio.com",
+    "project_id": "dailydigitaldeals-chat",
+    "storage_bucket": "dailydigitaldeals-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173998952142:android:3082c64e97a24cd3030a9f",
+        "android_client_info": {
+          "package_name": "com.example.startup_try_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173998952142-u5dihbng35u7ktri4cbv96iiaq06ke0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwwmESs6GM7MqB5rmaqgQJvqrDNdG8-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173998952142-u5dihbng35u7ktri4cbv96iiaq06ke0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
