@@ -1,7 +1,7 @@
 <?php
 
 
-$conn =new mysqli("localhost","u773298480_shopera","4Ct/X+lcla","u773298480_shopera");
+$conn =new mysqli("localhost","user_name","password","db_name");
 
 
 // if ($conn->connect_error) {
