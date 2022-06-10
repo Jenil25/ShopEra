@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Add Shop
+        </title>
+        <style>
+            .col{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            .in{
+                height: 25px;
+                width: 200px;
+                border-radius: 15px;
+            }
+        </style>
+    </head>
+    <body>
+        <form method="POST" action="http://shoperaweb.com/web/adminshop.php">
+            <div class="col">
+                <h2>
+                    <label>
+                        Enter Shop Name
+                    </label>
+                </h2>
+                <input type="text" class="in" name="shop_name" style="width: 600px;">
+                <h2>
+                <label>
+                    Enter Shop Address
+                </label>
+                </h2>
+                <textarea name="shop_address" cols="30" rows="10" style="border-radius: 15px;">
+
+                </textarea>
+                <h2>
+                    <label>
+                        Enter Shop Owner Name
+                    </label>
+                    </h2>
+                    <input type="text" name="shop_owner_name" class="in">
+                    <h2>
+                        <label>
+                            Enter Shop Description
+                        </label>
+                        </h2>
+                        <textarea name="shop_desc" cols="50" rows="10" style="border-radius: 15px;">
+
+                        </textarea>
+                    <h2>
+                        <label>
+                            Enter Mobile Number
+                        </label>
+                        </h2>
+                        <input type="text" name="shop_number" class="in">
+                        <h2>
+                            <label>
+                                Enter Email
+                            </label>
+                            </h2>
+                            <input type="email" name="shop_email" class="in">
+                            <h2>
+                                <label>
+                                    Enter Image Name
+                                </label>
+                                </h2>
+                                <input type="text" name="shop_image" class="in">
+                                <h2>
+                                    <label>
+                                        Enter Google Map Link
+                                    </label>
+                                    </h2>
+                                    <textarea name="shop_map_link" cols="200" rows="2" style="border-radius: 15px;">
+
+                                    </textarea>
+                                    <h2>
+                                        <label>
+                                            Enter Referal Code
+                                        </label>
+                                        </h2>
+                                        <input name="shop_referal" type="text" class="in">
+                                        
+                                    
+                                        
+                                        
+                                                <br>
+                                                <br>
+                                            
+                                                <input type="submit" class="in" placeholder="SUBMIT">
+                                                <br>
+                                                <input type="reset" class="in" placeholder="RESET">
+            </div>
+        </form>
+    </body>
+</html>
