@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Jenil25/ShopEra/ShopEra/assets/images/logo.png" alt="Shopera-Logo" height="100">
+    <img src="https://user-images.githubusercontent.com/66000770/183358295-60157e02-ac35-4e9e-8de8-0799e0b0c21c.png" alt="Shopera-Logo" height="100">
   <h3 align="center"><b>Shopera : An Ecommerce App</b></h3>
 
 Here's Shopera, an E-commerce, hyper-local online platform that enables customers and local merchants to discover and engage with each other. Any user who’s logged in the app making sure they’re connected with internet connectivity can access the differnt shops around, fulfiling their shopping needs at the comfort of their home. The biggest difference between Shopera and existing applications is that it provides a hybrid approach to the shopping where user's can choose their desired shops. This also makes a good platform for small businesses where they can take their business online without any hassle.
@@ -34,14 +34,8 @@ In India, people prefer shopping online these days rather than having to visit t
 
 # Glimpses of the app
 
-![1](https://user-images.githubusercontent.com/73271406/168602224-e48db841-e603-4537-ba22-259db6e0ee9e.png)
-![2](https://user-images.githubusercontent.com/73271406/168602293-bfa23ce1-4557-49e6-a160-d7443355ce18.png)
-
-# Demonstration Video
-
- <a href="https://drive.google.com/file/d/11RxmxrySaSuG3aYw5lu9SRUo0lpNhKIY/view?usp=sharing">
-    <img src="https://github.com/Dhruv2406/Verbyl/blob/main/assets/images/Verbyl-GIF.gif" alt="Verbyl-GIF" height="250">
-  </a>
+![1](https://user-images.githubusercontent.com/66000770/183358133-4ecac09b-0db8-4295-9aac-76ff6922aa14.png)
+![2](https://user-images.githubusercontent.com/66000770/183358160-839312b4-bfaa-4b63-bfac-1f57d259176b.png)
 
 # Tech Stack
 
